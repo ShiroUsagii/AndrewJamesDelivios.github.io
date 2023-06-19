@@ -627,8 +627,7 @@ p{
     position: absolute;
     width: 206px;
     height: 100%;
-    opacity:0;
-    display: none;
+     opacity:0;
     background-color: #fff;
     z-index: 1;
 }
